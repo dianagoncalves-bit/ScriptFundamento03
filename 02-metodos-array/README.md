@@ -12,4 +12,27 @@ Ao final do projeto, o aluno deverá ser capaz de:
 - Criar e manipular objetos;
 - Trabalhar com array de objetos;
 - Entender o uso de `this`;
+- Converter objetos para JSON e JSON para objetos;
+- Criar classes;
+- Utilizar `construtor`;
+- instanciar objetos `new`;
+- Criar atributos e métodos;
+- Compreender os conceitos iniciais de encapsulamento, herança e polimorfismo;
 
+## Como executar
+
+Abra o terminal na pasta do projeto e execute;
+
+```bash
+    node nome-do-arquivo.js
+```
+# 1. Funções
+
+Funções permitem organizar e reutilizar códigos.
+
+```javascript 
+    function saudacao(){
+        console.log("olá, tuma")
+    }
+    saudacao();
+```
