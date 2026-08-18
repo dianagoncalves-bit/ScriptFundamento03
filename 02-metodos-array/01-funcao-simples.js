@@ -11,3 +11,5 @@ frutas.forEach((fruta) => {
 frutas.forEach((fruta) => {
     console.log(fruta)
 })
+
+
