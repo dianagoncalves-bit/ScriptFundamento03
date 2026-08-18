@@ -7,3 +7,7 @@ for (let i = 0; i < frutas.length; i++){
 frutas.forEach((fruta) => {
         console.log(fruta);
 })
+
+frutas.forEach((fruta) => {
+    console.log(fruta)
+})
