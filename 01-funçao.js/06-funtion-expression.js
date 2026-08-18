@@ -8,3 +8,4 @@ const somarAnonima = function(a,b){
 
 console.log(somar(10,5))
 console.log(somarAnonima(10,5))
+
